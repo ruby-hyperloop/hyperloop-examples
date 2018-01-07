@@ -1,2 +1,2 @@
-# hyperloop-examples
-Example ruby-haperloop applications, taken originally from the hyper gems
+# Ruby Hyperloop Examples
+This repository contains example ruby-hyperloop applications, taken originally from the hyper gems.
